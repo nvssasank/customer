@@ -1,4 +1,4 @@
-#### CustomerTable Component
+# CustomerTable Component
 The CustomerTable component is a React component designed to display and manage customer data in a tabular format. It provides features for searching, sorting, and pagination of the displayed data.
 
 ### Features
