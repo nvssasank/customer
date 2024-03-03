@@ -2,12 +2,9 @@
 The CustomerTable component is a React component designed to display and manage customer data in a tabular format. It provides features for searching, sorting, and pagination of the displayed data.
 
 ### Features
-  ## Search: 
-        Users can search for customers by their name or location using the search input field.
-  ## Sort: 
-        Users can sort the displayed data by date or time of creation in ascending or descending order.
-  ## Pagination: 
-        The component supports pagination, allowing users to navigate through multiple pages of data.
+  ### Search: Users can search for customers by their name or location using the search input field.
+  ## Sort: Users can sort the displayed data by date or time of creation in ascending or descending order.
+  ## Pagination: The component supports pagination, allowing users to navigate through multiple pages of data.
 ### Installation
 To use the CustomerTable component in your React application, follow these steps:
 
